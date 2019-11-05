@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # osol-carbon-vue
 
 ## Project setup
@@ -27,3 +28,6 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+# osol-carbon-vue
+>>>>>>> a64aaf88cd99a46b1b837a0dfde26d04ba554509
